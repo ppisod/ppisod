@@ -1,6 +1,6 @@
-# Hi, I'm ppisod 👋
+# ppisod
 
-**student** doig things...
+**student**
 
 ### Skills
 - Java: ★★★★
