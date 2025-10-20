@@ -1,6 +1,6 @@
 # ppisod
 
-**student**
+**student**. message me on Discord via tag "caltr4"
 
 ### Skills
 - Java: ★★★★
