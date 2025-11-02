@@ -13,7 +13,7 @@
 - C++ & Swift: ★
 
 ### Goals
-- game development (currently, see [Snares](https://github.com/ppisod/Snares)
+- game development (currently, see [Snares](https://github.com/ppisod/Snares))
 - improve problem solving n learn different frameworks
 - simple personal website
 
